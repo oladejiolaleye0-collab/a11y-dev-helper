@@ -1,5 +1,3 @@
-Below is a README.md you can paste directly and tweak later.
-
 A11y Dev Helper
 A11y Dev Helper is an open-source AI-oriented tool that turns source code structures into clear, screen-reader-friendly explanations, summaries, and navigation cues for blind and low-vision developers.
 
