@@ -66,3 +66,23 @@ Multiple language parsers (JS/TS, Java, etc.).
 Better navigation cues and landmarks.
 
 Optional editor / CLI integrations built on top.
+
+PlaceholderLLMClient – a stub that returns a template explanation, so the full flow works out-of-the-box without any API keys.
+
+Extensible architecture so you can easily add a real LLM client in your own fork or project.
+
+Who this is for
+Blind and low-vision developers who want a higher-level overview of a file before reading it line-by-line with a screen reader.
+
+Tool builders who want to integrate AI-generated structural descriptions into editors, CLIs, or educational tools.
+
+Accessibility-focused contributors who want to experiment with better ways to represent code structure and navigation in text.
+
+Project status
+This is an early, experimental version focused on single-file Python parsing and a clean, provider-agnostic core. The aim is to grow into a small ecosystem of:
+
+Multiple language parsers (JS/TS, Java, etc.).
+
+Better navigation cues and landmarks.
+
+Optional editor / CLI integrations built on top.
